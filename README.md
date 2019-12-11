@@ -1,8 +1,6 @@
-# Welcome to the easiest free website for beginners ever!
+# BertsUnica
 
-### I can't wait to see what you create!
+![Berts camera](DSC_2674.jpg) 
 
-![Pixabay Cat](pixabay_Free-Photos.jpg) 
-
-**I hope you have so much fun creating your website!**
-*anne*
+testing
+*Bert*
